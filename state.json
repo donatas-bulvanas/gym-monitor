@@ -1,0 +1,560 @@
+{
+ "2026-11-10|08:00 - 08:49|2614": {
+  "date": "2026-11-10",
+  "weekday": "An",
+  "time": "08:00 - 08:49",
+  "title": "Yoga",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-12|08:00 - 08:49|2615": {
+  "date": "2026-11-12",
+  "weekday": "Kt",
+  "time": "08:00 - 08:49",
+  "title": "Power Pilates",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-09|09:00 - 09:49|2642": {
+  "date": "2026-11-09",
+  "weekday": "Pr",
+  "time": "09:00 - 09:49",
+  "title": "G+ Sculpt",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-10|09:00 - 09:49|2618": {
+  "date": "2026-11-10",
+  "weekday": "An",
+  "time": "09:00 - 09:49",
+  "title": "G+ Sculpt",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-11|09:00 - 09:49|3131": {
+  "date": "2026-11-11",
+  "weekday": "Tr",
+  "time": "09:00 - 09:49",
+  "title": "G+ Booty",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-12|09:00 - 09:49|2616": {
+  "date": "2026-11-12",
+  "weekday": "Kt",
+  "time": "09:00 - 09:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-13|09:00 - 09:49|3130": {
+  "date": "2026-11-13",
+  "weekday": "Pn",
+  "time": "09:00 - 09:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-09|11:00 - 11:49|2614": {
+  "date": "2026-11-09",
+  "weekday": "Pr",
+  "time": "11:00 - 11:49",
+  "title": "Yoga",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-11|11:00 - 11:49|2615": {
+  "date": "2026-11-11",
+  "weekday": "Tr",
+  "time": "11:00 - 11:49",
+  "title": "Power Pilates",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-13|11:00 - 11:49|2614": {
+  "date": "2026-11-13",
+  "weekday": "Pn",
+  "time": "11:00 - 11:49",
+  "title": "Yoga",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-09|12:00 - 12:49|2616": {
+  "date": "2026-11-09",
+  "weekday": "Pr",
+  "time": "12:00 - 12:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-10|12:00 - 12:49|2642": {
+  "date": "2026-11-10",
+  "weekday": "An",
+  "time": "12:00 - 12:49",
+  "title": "G+ Sculpt",
+  "coach": "Marija Kaščiukienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-11|12:00 - 12:49|2617": {
+  "date": "2026-11-11",
+  "weekday": "Tr",
+  "time": "12:00 - 12:49",
+  "title": "G+ Booty",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-12|12:00 - 12:49|2642": {
+  "date": "2026-11-12",
+  "weekday": "Kt",
+  "time": "12:00 - 12:49",
+  "title": "G+ Sculpt",
+  "coach": "Marija Kaščiukienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-13|12:00 - 12:49|2616": {
+  "date": "2026-11-13",
+  "weekday": "Pn",
+  "time": "12:00 - 12:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-14|12:00 - 12:49|3276": {
+  "date": "2026-11-14",
+  "weekday": "Št",
+  "time": "12:00 - 12:49",
+  "title": "G+ Sculpt",
+  "coach": "Gabrielė Mikulskytė - Blažienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-15|12:00 - 12:49|3277": {
+  "date": "2026-11-15",
+  "weekday": "Sk",
+  "time": "12:00 - 12:49",
+  "title": "Slow & Strong",
+  "coach": "Gabrielė Mikulskytė - Blažienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-09|17:30 - 18:19|2621": {
+  "date": "2026-11-09",
+  "weekday": "Pr",
+  "time": "17:30 - 18:19",
+  "title": "G+ Booty",
+  "coach": "Giedrė Slavinskienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-10|17:30 - 18:19|2626": {
+  "date": "2026-11-10",
+  "weekday": "An",
+  "time": "17:30 - 18:19",
+  "title": "G+ Cardio Strength",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-11|17:30 - 18:19|2622": {
+  "date": "2026-11-11",
+  "weekday": "Tr",
+  "time": "17:30 - 18:19",
+  "title": "G+ Cardio Strength",
+  "coach": "Giedrė Slavinskienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-12|17:30 - 18:19|2823": {
+  "date": "2026-11-12",
+  "weekday": "Kt",
+  "time": "17:30 - 18:19",
+  "title": "G+ Booty",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-13|17:30 - 18:19|2642": {
+  "date": "2026-11-13",
+  "weekday": "Pn",
+  "time": "17:30 - 18:19",
+  "title": "G+ Sculpt",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-09|18:30 - 19:19|2619": {
+  "date": "2026-11-09",
+  "weekday": "Pr",
+  "time": "18:30 - 19:19",
+  "title": "Slow & Strong",
+  "coach": "Giedrė Slavinskienė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-10|18:30 - 19:19|2893": {
+  "date": "2026-11-10",
+  "weekday": "An",
+  "time": "18:30 - 19:19",
+  "title": "G+ Sculpt",
+  "coach": "Žaneta Verkauskė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-11|18:30 - 19:19|2619": {
+  "date": "2026-11-11",
+  "weekday": "Tr",
+  "time": "18:30 - 19:19",
+  "title": "Slow & Strong",
+  "coach": "Giedrė Slavinskienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-12|18:30 - 19:19|2625": {
+  "date": "2026-11-12",
+  "weekday": "Kt",
+  "time": "18:30 - 19:19",
+  "title": "G+ Pump",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-13|18:30 - 19:19|2643": {
+  "date": "2026-11-13",
+  "weekday": "Pn",
+  "time": "18:30 - 19:19",
+  "title": "Slow & Strong",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-09|19:30 - 20:19|2620": {
+  "date": "2026-11-09",
+  "weekday": "Pr",
+  "time": "19:30 - 20:19",
+  "title": "G+ Sculpt",
+  "coach": "Giedrė Slavinskienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-10|19:30 - 20:19|2624": {
+  "date": "2026-11-10",
+  "weekday": "An",
+  "time": "19:30 - 20:19",
+  "title": "G+ Mobility",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-11|19:30 - 20:19|2620": {
+  "date": "2026-11-11",
+  "weekday": "Tr",
+  "time": "19:30 - 20:19",
+  "title": "G+ Sculpt",
+  "coach": "Giedrė Slavinskienė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-12|19:30 - 20:19|2624": {
+  "date": "2026-11-12",
+  "weekday": "Kt",
+  "time": "19:30 - 20:19",
+  "title": "G+ Mobility",
+  "coach": "Žaneta Verkauskė",
+  "full": true,
+  "week_start": "2026-11-09"
+ },
+ "2026-11-17|08:00 - 08:49|2614": {
+  "date": "2026-11-17",
+  "weekday": "An",
+  "time": "08:00 - 08:49",
+  "title": "Yoga",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-19|08:00 - 08:49|2615": {
+  "date": "2026-11-19",
+  "weekday": "Kt",
+  "time": "08:00 - 08:49",
+  "title": "Power Pilates",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-16|09:00 - 09:49|2642": {
+  "date": "2026-11-16",
+  "weekday": "Pr",
+  "time": "09:00 - 09:49",
+  "title": "G+ Sculpt",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-17|09:00 - 09:49|2618": {
+  "date": "2026-11-17",
+  "weekday": "An",
+  "time": "09:00 - 09:49",
+  "title": "G+ Sculpt",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-18|09:00 - 09:49|3131": {
+  "date": "2026-11-18",
+  "weekday": "Tr",
+  "time": "09:00 - 09:49",
+  "title": "G+ Booty",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-19|09:00 - 09:49|2616": {
+  "date": "2026-11-19",
+  "weekday": "Kt",
+  "time": "09:00 - 09:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-20|09:00 - 09:49|3130": {
+  "date": "2026-11-20",
+  "weekday": "Pn",
+  "time": "09:00 - 09:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-16|11:00 - 11:49|2614": {
+  "date": "2026-11-16",
+  "weekday": "Pr",
+  "time": "11:00 - 11:49",
+  "title": "Yoga",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-18|11:00 - 11:49|2615": {
+  "date": "2026-11-18",
+  "weekday": "Tr",
+  "time": "11:00 - 11:49",
+  "title": "Power Pilates",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-20|11:00 - 11:49|2614": {
+  "date": "2026-11-20",
+  "weekday": "Pn",
+  "time": "11:00 - 11:49",
+  "title": "Yoga",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-16|12:00 - 12:49|2616": {
+  "date": "2026-11-16",
+  "weekday": "Pr",
+  "time": "12:00 - 12:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-17|12:00 - 12:49|2642": {
+  "date": "2026-11-17",
+  "weekday": "An",
+  "time": "12:00 - 12:49",
+  "title": "G+ Sculpt",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-18|12:00 - 12:49|2617": {
+  "date": "2026-11-18",
+  "weekday": "Tr",
+  "time": "12:00 - 12:49",
+  "title": "G+ Booty",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-19|12:00 - 12:49|2642": {
+  "date": "2026-11-19",
+  "weekday": "Kt",
+  "time": "12:00 - 12:49",
+  "title": "G+ Sculpt",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-20|12:00 - 12:49|2616": {
+  "date": "2026-11-20",
+  "weekday": "Pn",
+  "time": "12:00 - 12:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Kristina Kaminskaitė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-21|12:00 - 12:49|2626": {
+  "date": "2026-11-21",
+  "weekday": "Št",
+  "time": "12:00 - 12:49",
+  "title": "G+ Cardio Strength",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-22|12:00 - 12:49|2754": {
+  "date": "2026-11-22",
+  "weekday": "Sk",
+  "time": "12:00 - 12:49",
+  "title": "Yoga",
+  "coach": "Tomas Tamašauskas",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-16|17:30 - 18:19|2621": {
+  "date": "2026-11-16",
+  "weekday": "Pr",
+  "time": "17:30 - 18:19",
+  "title": "G+ Booty",
+  "coach": "Giedrė Slavinskienė",
+  "full": true,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-17|17:30 - 18:19|2626": {
+  "date": "2026-11-17",
+  "weekday": "An",
+  "time": "17:30 - 18:19",
+  "title": "G+ Cardio Strength",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-18|17:30 - 18:19|2622": {
+  "date": "2026-11-18",
+  "weekday": "Tr",
+  "time": "17:30 - 18:19",
+  "title": "G+ Cardio Strength",
+  "coach": "Giedrė Slavinskienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-19|17:30 - 18:19|2823": {
+  "date": "2026-11-19",
+  "weekday": "Kt",
+  "time": "17:30 - 18:19",
+  "title": "G+ Booty",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-20|17:30 - 18:19|2642": {
+  "date": "2026-11-20",
+  "weekday": "Pn",
+  "time": "17:30 - 18:19",
+  "title": "G+ Sculpt",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-16|18:30 - 19:19|2619": {
+  "date": "2026-11-16",
+  "weekday": "Pr",
+  "time": "18:30 - 19:19",
+  "title": "Slow & Strong",
+  "coach": "Giedrė Slavinskienė",
+  "full": true,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-17|18:30 - 19:19|2893": {
+  "date": "2026-11-17",
+  "weekday": "An",
+  "time": "18:30 - 19:19",
+  "title": "G+ Sculpt",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-18|18:30 - 19:19|2619": {
+  "date": "2026-11-18",
+  "weekday": "Tr",
+  "time": "18:30 - 19:19",
+  "title": "Slow & Strong",
+  "coach": "Giedrė Slavinskienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-19|18:30 - 19:19|2625": {
+  "date": "2026-11-19",
+  "weekday": "Kt",
+  "time": "18:30 - 19:19",
+  "title": "G+ Pump",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-20|18:30 - 19:19|2643": {
+  "date": "2026-11-20",
+  "weekday": "Pn",
+  "time": "18:30 - 19:19",
+  "title": "Slow & Strong",
+  "coach": "Marija Kaščiukienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-16|19:30 - 20:19|2620": {
+  "date": "2026-11-16",
+  "weekday": "Pr",
+  "time": "19:30 - 20:19",
+  "title": "G+ Sculpt",
+  "coach": "Giedrė Slavinskienė",
+  "full": true,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-17|19:30 - 20:19|2624": {
+  "date": "2026-11-17",
+  "weekday": "An",
+  "time": "19:30 - 20:19",
+  "title": "G+ Mobility",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-18|19:30 - 20:19|2620": {
+  "date": "2026-11-18",
+  "weekday": "Tr",
+  "time": "19:30 - 20:19",
+  "title": "G+ Sculpt",
+  "coach": "Giedrė Slavinskienė",
+  "full": false,
+  "week_start": "2026-11-16"
+ },
+ "2026-11-19|19:30 - 20:19|2624": {
+  "date": "2026-11-19",
+  "weekday": "Kt",
+  "time": "19:30 - 20:19",
+  "title": "G+ Mobility",
+  "coach": "Žaneta Verkauskė",
+  "full": false,
+  "week_start": "2026-11-16"
+ }
+}
