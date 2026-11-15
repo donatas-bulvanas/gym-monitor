@@ -302,7 +302,7 @@
   "time": "09:00 - 09:49",
   "title": "G+ Sculpt",
   "coach": "Marija Kaščiukienė",
-  "full": false,
+  "full": true,
   "week_start": "2026-11-16"
  },
  "2026-11-17|09:00 - 09:49|2618": {
@@ -536,7 +536,7 @@
   "time": "19:30 - 20:19",
   "title": "G+ Mobility",
   "coach": "Žaneta Verkauskė",
-  "full": false,
+  "full": true,
   "week_start": "2026-11-16"
  },
  "2026-11-18|19:30 - 20:19|2620": {
