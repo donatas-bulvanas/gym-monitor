@@ -21,11 +21,11 @@
   "title": "Power Pilates",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-16",
-  "open": true,
+  "open": false,
   "full": false,
-  "free": 9,
-  "total": 18,
-  "bookable": true
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-16|09:00 - 09:49|2642": {
   "date": "2026-11-16",
@@ -65,7 +65,7 @@
   "week_start": "2026-11-16",
   "open": true,
   "full": false,
-  "free": 9,
+  "free": 8,
   "total": 18,
   "bookable": true
  },
@@ -107,7 +107,7 @@
   "week_start": "2026-11-16",
   "open": true,
   "full": false,
-  "free": 9,
+  "free": 7,
   "total": 18,
   "bookable": true
  },
@@ -175,11 +175,11 @@
   "title": "G+ Cardio Strength",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-16",
-  "open": false,
+  "open": true,
   "full": false,
-  "free": 18,
+  "free": 10,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-22|12:00 - 12:49|2754": {
   "date": "2026-11-22",
