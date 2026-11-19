@@ -175,11 +175,11 @@
   "title": "G+ Cardio Strength",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-16",
-  "open": true,
-  "full": false,
-  "free": 6,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-22|12:00 - 12:49|2754": {
   "date": "2026-11-22",
