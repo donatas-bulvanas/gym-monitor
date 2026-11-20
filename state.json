@@ -768,5 +768,19 @@
   "free": 18,
   "total": 18,
   "bookable": false
+ },
+ "2026-11-28|12:00 - 12:49|2616": {
+  "date": "2026-11-28",
+  "weekday": "Št",
+  "time": "12:00 - 12:49",
+  "start": "2026-11-28T12:00:00+02:00",
+  "title": "G+ Cardio Strength",
+  "coach": "Kristina Kaminskaitė",
+  "week_start": "2026-11-23",
+  "open": false,
+  "full": false,
+  "free": 18,
+  "total": 18,
+  "bookable": false
  }
 }
