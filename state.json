@@ -107,7 +107,7 @@
   "week_start": "2026-11-16",
   "open": true,
   "full": false,
-  "free": 10,
+  "free": 9,
   "total": 18,
   "bookable": true
  },
@@ -191,7 +191,7 @@
   "week_start": "2026-11-16",
   "open": true,
   "full": false,
-  "free": 15,
+  "free": 11,
   "total": 18,
   "bookable": true
  },
