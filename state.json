@@ -189,11 +189,11 @@
   "title": "Yoga",
   "coach": "Tomas Tamašauskas",
   "week_start": "2026-11-16",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-16|17:30 - 18:19|2621": {
   "date": "2026-11-16",
@@ -583,7 +583,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 4,
+  "free": 3,
   "total": 18,
   "bookable": true
  },
