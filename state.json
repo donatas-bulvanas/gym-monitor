@@ -399,11 +399,11 @@
   "title": "G+ Sculpt",
   "coach": "Marija Kaščiukienė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-24|09:00 - 09:49|2618": {
   "date": "2026-11-24",
@@ -527,7 +527,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 5,
+  "free": 4,
   "total": 18,
   "bookable": true
  },
@@ -595,11 +595,11 @@
   "title": "G+ Cardio Strength",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 2,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-25|17:30 - 18:19|2622": {
   "date": "2026-11-25",
@@ -737,7 +737,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 5,
+  "free": 4,
   "total": 18,
   "bookable": true
  },
