@@ -415,7 +415,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 13,
+  "free": 11,
   "total": 18,
   "bookable": true
  },
@@ -527,7 +527,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 8,
+  "free": 7,
   "total": 18,
   "bookable": true
  },
@@ -597,7 +597,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 10,
+  "free": 7,
   "total": 18,
   "bookable": true
  },
@@ -665,11 +665,11 @@
   "title": "G+ Sculpt",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
-  "free": 18,
+  "free": 9,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-25|18:30 - 19:19|2619": {
   "date": "2026-11-25",
