@@ -429,7 +429,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 10,
+  "free": 9,
   "total": 18,
   "bookable": true
  },
@@ -541,7 +541,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 13,
+  "free": 11,
   "total": 18,
   "bookable": true
  },
@@ -611,7 +611,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 10,
+  "free": 2,
   "total": 18,
   "bookable": true
  },
@@ -679,11 +679,11 @@
   "title": "Slow & Strong",
   "coach": "Giedrė Slavinskienė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
-  "free": 18,
+  "free": 8,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-26|18:30 - 19:19|2625": {
   "date": "2026-11-26",
