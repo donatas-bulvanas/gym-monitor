@@ -27,20 +27,6 @@
   "total": null,
   "bookable": false
  },
- "2026-11-16|09:00 - 09:49|2642": {
-  "date": "2026-11-16",
-  "weekday": "Pr",
-  "time": "09:00 - 09:49",
-  "start": "2026-11-16T09:00:00+02:00",
-  "title": "G+ Sculpt",
-  "coach": "Marija Kaščiukienė",
-  "week_start": "2026-11-16",
-  "open": false,
-  "full": true,
-  "free": null,
-  "total": null,
-  "bookable": false
- },
  "2026-11-17|09:00 - 09:49|2618": {
   "date": "2026-11-17",
   "weekday": "An",
@@ -69,20 +55,6 @@
   "total": null,
   "bookable": false
  },
- "2026-11-16|11:00 - 11:49|2614": {
-  "date": "2026-11-16",
-  "weekday": "Pr",
-  "time": "11:00 - 11:49",
-  "start": "2026-11-16T11:00:00+02:00",
-  "title": "Yoga",
-  "coach": "Kristina Kaminskaitė",
-  "week_start": "2026-11-16",
-  "open": false,
-  "full": false,
-  "free": null,
-  "total": null,
-  "bookable": false
- },
  "2026-11-18|11:00 - 11:49|2615": {
   "date": "2026-11-18",
   "weekday": "Tr",
@@ -103,20 +75,6 @@
   "time": "11:00 - 11:49",
   "start": "2026-11-20T11:00:00+02:00",
   "title": "Yoga",
-  "coach": "Kristina Kaminskaitė",
-  "week_start": "2026-11-16",
-  "open": false,
-  "full": false,
-  "free": null,
-  "total": null,
-  "bookable": false
- },
- "2026-11-16|12:00 - 12:49|2616": {
-  "date": "2026-11-16",
-  "weekday": "Pr",
-  "time": "12:00 - 12:49",
-  "start": "2026-11-16T12:00:00+02:00",
-  "title": "G+ Cardio Strength",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-16",
   "open": false,
@@ -195,20 +153,6 @@
   "total": null,
   "bookable": false
  },
- "2026-11-16|17:30 - 18:19|2621": {
-  "date": "2026-11-16",
-  "weekday": "Pr",
-  "time": "17:30 - 18:19",
-  "start": "2026-11-16T17:30:00+02:00",
-  "title": "G+ Booty",
-  "coach": "Giedrė Slavinskienė",
-  "week_start": "2026-11-16",
-  "open": false,
-  "full": true,
-  "free": null,
-  "total": null,
-  "bookable": false
- },
  "2026-11-17|17:30 - 18:19|2626": {
   "date": "2026-11-17",
   "weekday": "An",
@@ -244,20 +188,6 @@
   "start": "2026-11-19T17:30:00+02:00",
   "title": "G+ Booty",
   "coach": "Žaneta Verkauskė",
-  "week_start": "2026-11-16",
-  "open": false,
-  "full": true,
-  "free": null,
-  "total": null,
-  "bookable": false
- },
- "2026-11-16|18:30 - 19:19|2619": {
-  "date": "2026-11-16",
-  "weekday": "Pr",
-  "time": "18:30 - 19:19",
-  "start": "2026-11-16T18:30:00+02:00",
-  "title": "Slow & Strong",
-  "coach": "Giedrė Slavinskienė",
   "week_start": "2026-11-16",
   "open": false,
   "full": true,
@@ -303,20 +233,6 @@
   "week_start": "2026-11-16",
   "open": false,
   "full": false,
-  "free": null,
-  "total": null,
-  "bookable": false
- },
- "2026-11-16|19:30 - 20:19|2620": {
-  "date": "2026-11-16",
-  "weekday": "Pr",
-  "time": "19:30 - 20:19",
-  "start": "2026-11-16T19:30:00+02:00",
-  "title": "G+ Sculpt",
-  "coach": "Giedrė Slavinskienė",
-  "week_start": "2026-11-16",
-  "open": false,
-  "full": true,
   "free": null,
   "total": null,
   "bookable": false
@@ -525,11 +441,11 @@
   "title": "G+ Sculpt",
   "coach": "Marija Kaščiukienė",
   "week_start": "2026-11-23",
-  "open": false,
-  "full": true,
-  "free": null,
-  "total": null,
-  "bookable": false
+  "open": true,
+  "full": false,
+  "free": 1,
+  "total": 18,
+  "bookable": true
  },
  "2026-11-25|12:00 - 12:49|2617": {
   "date": "2026-11-25",
