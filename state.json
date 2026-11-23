@@ -413,11 +413,11 @@
   "title": "G+ Sculpt",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 2,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-25|09:00 - 09:49|3131": {
   "date": "2026-11-25",
@@ -469,11 +469,11 @@
   "title": "Yoga",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": true,
+  "open": false,
   "full": false,
-  "free": 14,
-  "total": 18,
-  "bookable": true
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-25|11:00 - 11:49|2615": {
   "date": "2026-11-25",
@@ -485,7 +485,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 18,
+  "free": 16,
   "total": 18,
   "bookable": true
  },
@@ -513,7 +513,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 12,
+  "free": 10,
   "total": 18,
   "bookable": true
  },
