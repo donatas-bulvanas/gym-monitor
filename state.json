@@ -429,7 +429,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 15,
+  "free": 13,
   "total": 18,
   "bookable": true
  },
@@ -471,7 +471,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 13,
+  "free": 14,
   "total": 18,
   "bookable": true
  },
@@ -485,7 +485,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 17,
+  "free": 18,
   "total": 18,
   "bookable": true
  },
@@ -539,11 +539,11 @@
   "title": "G+ Booty",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
   "free": 18,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-26|12:00 - 12:49|2642": {
   "date": "2026-11-26",
