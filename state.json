@@ -413,11 +413,11 @@
   "title": "G+ Sculpt",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-25|09:00 - 09:49|3131": {
   "date": "2026-11-25",
@@ -485,7 +485,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 12,
+  "free": 11,
   "total": 18,
   "bookable": true
  },
