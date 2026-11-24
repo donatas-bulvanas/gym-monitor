@@ -345,7 +345,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 2,
+  "free": 4,
   "total": 18,
   "bookable": true
  },
@@ -457,7 +457,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 7,
+  "free": 8,
   "total": 18,
   "bookable": true
  },
@@ -679,11 +679,11 @@
   "title": "G+ Mobility",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-28|12:00 - 12:49|2616": {
   "date": "2026-11-28",
