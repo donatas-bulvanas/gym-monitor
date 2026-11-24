@@ -303,7 +303,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 14,
+  "free": 13,
   "total": 18,
   "bookable": true
  },
@@ -401,7 +401,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 7,
+  "free": 8,
   "total": 18,
   "bookable": true
  },
@@ -471,7 +471,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 5,
+  "free": 4,
   "total": 18,
   "bookable": true
  },
@@ -511,11 +511,11 @@
   "title": "G+ Cardio Strength",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": false,
-  "full": true,
-  "free": null,
-  "total": null,
-  "bookable": false
+  "open": true,
+  "full": false,
+  "free": 2,
+  "total": 18,
+  "bookable": true
  },
  "2026-11-25|17:30 - 18:19|2622": {
   "date": "2026-11-25",
@@ -539,11 +539,11 @@
   "title": "G+ Booty",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 2,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-27|17:30 - 18:19|2642": {
   "date": "2026-11-27",
@@ -611,7 +611,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 15,
+  "free": 8,
   "total": 18,
   "bookable": true
  },
@@ -651,11 +651,11 @@
   "title": "G+ Mobility",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-25|19:30 - 20:19|2620": {
   "date": "2026-11-25",
@@ -679,11 +679,11 @@
   "title": "G+ Mobility",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
-  "free": 18,
+  "free": 14,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-28|12:00 - 12:49|2616": {
   "date": "2026-11-28",
