@@ -471,7 +471,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 6,
+  "free": 5,
   "total": 18,
   "bookable": true
  },
@@ -541,7 +541,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 7,
+  "free": 2,
   "total": 18,
   "bookable": true
  },
@@ -609,11 +609,11 @@
   "title": "G+ Pump",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
-  "free": 18,
+  "free": 15,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-27|18:30 - 19:19|2643": {
   "date": "2026-11-27",
@@ -651,11 +651,11 @@
   "title": "G+ Mobility",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": false,
-  "full": true,
-  "free": null,
-  "total": null,
-  "bookable": false
+  "open": true,
+  "full": false,
+  "free": 1,
+  "total": 18,
+  "bookable": true
  },
  "2026-11-25|19:30 - 20:19|2620": {
   "date": "2026-11-25",
