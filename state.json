@@ -301,11 +301,11 @@
   "title": "Power Pilates",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
   "free": 18,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-23|09:00 - 09:49|2642": {
   "date": "2026-11-23",
