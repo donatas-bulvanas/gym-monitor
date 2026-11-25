@@ -219,7 +219,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 14,
+  "free": 13,
   "total": 18,
   "bookable": true
  },
@@ -289,7 +289,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 18,
+  "free": 17,
   "total": 18,
   "bookable": true
  },
@@ -399,11 +399,11 @@
   "title": "G+ Cardio Strength",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
-  "free": 18,
+  "free": 14,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-23|17:30 - 18:19|2621": {
   "date": "2026-11-23",
@@ -595,11 +595,11 @@
   "title": "G+ Mobility",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": false,
-  "full": true,
-  "free": null,
-  "total": null,
-  "bookable": false
+  "open": true,
+  "full": false,
+  "free": 1,
+  "total": 18,
+  "bookable": true
  },
  "2026-11-28|12:00 - 12:49|2616": {
   "date": "2026-11-28",
