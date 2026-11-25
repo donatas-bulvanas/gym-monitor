@@ -219,7 +219,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 13,
+  "free": 14,
   "total": 18,
   "bookable": true
  },
@@ -261,7 +261,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 7,
+  "free": 9,
   "total": 18,
   "bookable": true
  },
@@ -329,11 +329,11 @@
   "title": "Yoga",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
   "free": 18,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-11-23|12:00 - 12:49|2616": {
   "date": "2026-11-23",
@@ -441,11 +441,11 @@
   "title": "G+ Cardio Strength",
   "coach": "Giedrė Slavinskienė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-26|17:30 - 18:19|2823": {
   "date": "2026-11-26",
