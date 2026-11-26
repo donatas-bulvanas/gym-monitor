@@ -205,7 +205,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 7,
+  "free": 8,
   "total": 18,
   "bookable": true
  },
@@ -315,11 +315,11 @@
   "title": "G+ Sculpt",
   "coach": "Marija Kaščiukienė",
   "week_start": "2026-11-23",
-  "open": false,
-  "full": true,
-  "free": null,
-  "total": null,
-  "bookable": false
+  "open": true,
+  "full": false,
+  "free": 1,
+  "total": 18,
+  "bookable": true
  },
  "2026-11-27|12:00 - 12:49|2616": {
   "date": "2026-11-27",
