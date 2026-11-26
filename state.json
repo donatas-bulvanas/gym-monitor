@@ -147,11 +147,11 @@
   "title": "Power Pilates",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": true,
+  "open": false,
   "full": false,
-  "free": 10,
-  "total": 18,
-  "bookable": true
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-23|09:00 - 09:49|2642": {
   "date": "2026-11-23",
@@ -331,7 +331,7 @@
   "week_start": "2026-11-23",
   "open": true,
   "full": false,
-  "free": 5,
+  "free": 3,
   "total": 18,
   "bookable": true
  },
@@ -399,11 +399,11 @@
   "title": "G+ Sculpt",
   "coach": "Marija Kaščiukienė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-23|18:30 - 19:19|2619": {
   "date": "2026-11-23",
@@ -525,11 +525,11 @@
   "title": "G+ Mobility",
   "coach": "Žaneta Verkauskė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-11-28|12:00 - 12:49|2616": {
   "date": "2026-11-28",
@@ -539,11 +539,11 @@
   "title": "G+ Cardio Strength",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": false,
+  "open": true,
   "full": false,
-  "free": 18,
+  "free": 15,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-12-01|08:00 - 08:49|2614": {
   "date": "2026-12-01",
