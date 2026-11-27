@@ -894,5 +894,19 @@
   "free": null,
   "total": null,
   "bookable": false
+ },
+ "2026-12-06|12:00 - 12:49|3276": {
+  "date": "2026-12-06",
+  "weekday": "Sk",
+  "time": "12:00 - 12:49",
+  "start": "2026-12-06T12:00:00+02:00",
+  "title": "G+ Sculpt",
+  "coach": "Gabrielė Mikulskytė - Blažienė",
+  "week_start": "2026-11-30",
+  "open": false,
+  "full": false,
+  "free": 18,
+  "total": 18,
+  "bookable": false
  }
 }
