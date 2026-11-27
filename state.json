@@ -889,10 +889,10 @@
   "title": "Slow & Strong",
   "coach": "Arina Peciukonienė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 3,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  }
 }
