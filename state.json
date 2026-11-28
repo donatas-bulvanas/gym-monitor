@@ -555,7 +555,7 @@
   "week_start": "2026-11-30",
   "open": true,
   "full": false,
-  "free": 17,
+  "free": 16,
   "total": 18,
   "bookable": true
  },
@@ -667,7 +667,7 @@
   "week_start": "2026-11-30",
   "open": true,
   "full": false,
-  "free": 5,
+  "free": 3,
   "total": 18,
   "bookable": true
  },
@@ -737,7 +737,7 @@
   "week_start": "2026-11-30",
   "open": true,
   "full": false,
-  "free": 7,
+  "free": 3,
   "total": 18,
   "bookable": true
  },
@@ -806,9 +806,9 @@
   "coach": "Giedrė Slavinskienė",
   "week_start": "2026-11-30",
   "open": false,
-  "full": false,
-  "free": 18,
-  "total": 18,
+  "full": true,
+  "free": null,
+  "total": null,
   "bookable": false
  },
  "2026-12-01|19:30 - 20:19|2624": {
