@@ -441,11 +441,11 @@
   "title": "G+ Cardio Strength",
   "coach": "Kristina Kaminskaitė",
   "week_start": "2026-11-23",
-  "open": true,
-  "full": false,
-  "free": 1,
-  "total": 18,
-  "bookable": true
+  "open": false,
+  "full": true,
+  "free": null,
+  "total": null,
+  "bookable": false
  },
  "2026-12-01|08:00 - 08:49|2614": {
   "date": "2026-12-01",
@@ -597,7 +597,7 @@
   "week_start": "2026-11-30",
   "open": true,
   "full": false,
-  "free": 17,
+  "free": 16,
   "total": 18,
   "bookable": true
  },
