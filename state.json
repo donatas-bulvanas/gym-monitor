@@ -665,11 +665,11 @@
   "title": "G+ Booty",
   "coach": "Giedrė Slavinskienė",
   "week_start": "2026-11-30",
-  "open": false,
+  "open": true,
   "full": false,
-  "free": 18,
+  "free": 8,
   "total": 18,
-  "bookable": false
+  "bookable": true
  },
  "2026-12-01|17:30 - 18:19|2626": {
   "date": "2026-12-01",
